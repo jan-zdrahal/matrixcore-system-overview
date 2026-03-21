@@ -6,7 +6,7 @@ Date: 2026-03-21
 
 Author: Jan Zdráhal  
 ORCID: https://orcid.org/0009-0005-2012-1234  
-DOI: <DOI pending>  
+DOI: https://doi.org/10.5281/zenodo.19154320  
 Web: https://matrixcore.org  
 
 ---
@@ -108,7 +108,7 @@ Repository working versions may contain drafts that are not canonical.
 
 Canonical publication references:
 
-DOI: <DOI pending>  
+DOI: https://doi.org/10.5281/zenodo.19154320  
 Repository: https://github.com/jan-zdrahal/matrixcore-system-overview  
 Release tag: v1.0
 
