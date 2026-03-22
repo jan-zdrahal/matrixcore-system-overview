@@ -96,9 +96,9 @@ Defines canonical external representations.
 
 ## Canonical Version
 
-The canonical version of this specification is defined by the DOI record once assigned.
+The canonical version of this specification is defined by the DOI record:
 
-Until DOI assignment, the canonical version is defined by the tagged repository release.
+https://doi.org/10.5281/zenodo.19154320
 
 Repository working versions may contain drafts that are not canonical.
 
