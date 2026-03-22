@@ -106,11 +106,14 @@ Repository working versions may contain drafts that are not canonical.
 
 ## Publication
 
-Canonical publication references:
+DOI:  
+https://doi.org/10.5281/zenodo.19154320
 
-DOI: https://doi.org/10.5281/zenodo.19154320  
-Repository: https://github.com/jan-zdrahal/matrixcore-system-overview  
-Release tag: v1.0
+Repository:  
+https://github.com/jan-zdrahal/matrixcore-system-overview
+
+Release tag:  
+v1.0
 
 ---
 
@@ -128,7 +131,14 @@ Canonical versions are immutable once published.
 
 ## Related Specifications
 
-MatrixCore Architectural Space Framework: https://doi.org/10.5281/zenodo.19153595
+MatrixCore Architectural Space Framework  
+https://doi.org/10.5281/zenodo.19153595  
+
+MatrixCore Design Principles  
+https://doi.org/10.5281/zenodo.19155760  
+
+MatrixCore Licensing Model  
+https://doi.org/10.5281/zenodo.19160540  
 
 ---
 
